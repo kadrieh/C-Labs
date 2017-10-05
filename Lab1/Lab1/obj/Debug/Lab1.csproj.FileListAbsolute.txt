@@ -1,0 +1,7 @@
+H:\Year4Sem7\C#EAD\LabSols\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+H:\Year4Sem7\C#EAD\LabSols\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+H:\Year4Sem7\C#EAD\LabSols\Lab1\Lab1\bin\Debug\Lab1.exe.config
+H:\Year4Sem7\C#EAD\LabSols\Lab1\Lab1\bin\Debug\Lab1.exe
+H:\Year4Sem7\C#EAD\LabSols\Lab1\Lab1\bin\Debug\Lab1.pdb
+H:\Year4Sem7\C#EAD\LabSols\Lab1\Lab1\obj\Debug\Lab1.exe
+H:\Year4Sem7\C#EAD\LabSols\Lab1\Lab1\obj\Debug\Lab1.pdb

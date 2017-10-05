@@ -1,0 +1,13 @@
+H:\Year4Sem7\C#EAD\LabSols\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+H:\Year4Sem7\C#EAD\LabSols\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+H:\Year4Sem7\C#EAD\LabSols\Lab2\Lab2\bin\Debug\Lab2.exe.config
+H:\Year4Sem7\C#EAD\LabSols\Lab2\Lab2\bin\Debug\Lab2.exe
+H:\Year4Sem7\C#EAD\LabSols\Lab2\Lab2\bin\Debug\Lab2.pdb
+H:\Year4Sem7\C#EAD\LabSols\Lab2\Lab2\obj\Debug\Lab2.exe
+H:\Year4Sem7\C#EAD\LabSols\Lab2\Lab2\obj\Debug\Lab2.pdb
+E:\Year4Sem7\C#EAD\LabSols\Lab2\Lab2\bin\Debug\Lab2.exe.config
+E:\Year4Sem7\C#EAD\LabSols\Lab2\Lab2\bin\Debug\Lab2.exe
+E:\Year4Sem7\C#EAD\LabSols\Lab2\Lab2\bin\Debug\Lab2.pdb
+E:\Year4Sem7\C#EAD\LabSols\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+E:\Year4Sem7\C#EAD\LabSols\Lab2\Lab2\obj\Debug\Lab2.exe
+E:\Year4Sem7\C#EAD\LabSols\Lab2\Lab2\obj\Debug\Lab2.pdb
